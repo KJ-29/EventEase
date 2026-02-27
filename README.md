@@ -15,9 +15,9 @@ Built with a clean UI approach and smooth user experience principles, the projec
 
 ## 🛠️ Tech Stack
 
-**HTML5** – Semantic and structured markup
-**CSS3** – Flexbox, Grid, animations, responsive design
-**JavaScript** – Countdown timer functionality
+- **HTML5** – Semantic and structured markup
+- **CSS3** – Flexbox, Grid, animations, responsive design
+- **JavaScript** – Countdown timer functionality
 
 ## 🔮 Future Enhancements
 
