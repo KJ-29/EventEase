@@ -5,13 +5,13 @@ Built with a clean UI approach and smooth user experience principles, the projec
 
 ## 📌 Key Features
 
--🎯 Fully responsive single-page layout
--⏳ Dynamic countdown timer for event launch
--✨ Smooth scrolling navigation
--🎨 Modern UI with CSS animations & transitions
--📱 Mobile-first design approach
--🗂️ Structured sections for better information flow
--🖥️ Sections Included: Home , About the Event , Event Schedule , Guest Speakers , Registration , Contact 
+- 🎯 Fully responsive single-page layout
+- ⏳ Dynamic countdown timer for event launch
+- ✨ Smooth scrolling navigation
+- 🎨 Modern UI with CSS animations & transitions
+- 📱 Mobile-first design approach
+- 🗂️ Structured sections for better information flow
+- 🖥️ Sections Included: Home , About the Event , Event Schedule , Guest Speakers , Registration , Contact 
 
 ## 🛠️ Tech Stack
 
